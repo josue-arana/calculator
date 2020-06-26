@@ -1,6 +1,5 @@
-# Exercise 2: Build a basic calculator 
+# Build a basic calculator 
 
-## Due Date: Tuesday, January 21, 2020 11:59 PM
 ## Objectives: Practice keeping track of state and passing data around to child components as props, as well as lifting state up.
 
 ## Specifications/Requirements
